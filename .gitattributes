@@ -3,3 +3,4 @@
 *.fla binary
 
 file1.swf merge=keepmine
+file1.fla merge=keepmine
