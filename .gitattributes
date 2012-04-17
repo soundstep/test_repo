@@ -1,3 +1,5 @@
 *.swf binary
 *.swc binary
 *.fla binary
+
+file1.swf merge=keepmine
